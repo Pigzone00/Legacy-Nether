@@ -74,3 +74,10 @@ If you played the old Xbox 360/PS3/Wii U editions, this will feel instantly fami
 
 * Existing Nether chunks will not retroactively change, **explore new chunks** or reset your Nether to experience the full effect.
 * Blaze glowstone drops are balanced around the old console mechanics.
+
+---
+
+## 🤝 Support
+
+* 💬 Join the community on [**Discord**](https://discord.com/invite/uhmuVmk2ut)
+* 🛠️ Report issues or contribute on [**GitHub**](https://github.com/Pigzone00/Legacy-Nether)
