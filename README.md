@@ -26,7 +26,9 @@ If you played the old Xbox 360/PS3/Wii U editions, this will feel instantly fami
 ☑️ - Planned
 
 ❌ - Not Implemented
-
+<details>
+<summary>Feature List</summary>
+  
 |**Feature**|Implemented|Planned|
 |-|-|-|
 |Nether Wastes only (with soul sand & gravel patches)|✅|☑️|
@@ -39,7 +41,7 @@ If you played the old Xbox 360/PS3/Wii U editions, this will feel instantly fami
 |Remove Ancient Debris / Netherite|❌|❌|
 |Disable newer advancements|✅|☑️|
 |Remove other Nether structures (ruined portals, etc.)|✅|☑️|
-|etc|✅|☑️|
+</details>
 
 ---
 
