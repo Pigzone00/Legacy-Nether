@@ -64,11 +64,13 @@ If you played the old Xbox 360/PS3/Wii U editions, this will feel instantly fami
 
 ## 📸 Screenshots
 
--- Needs to be filled
+![5f9f3ba5566e98d77a2c9c8927d5496aa16412ec](https://github.com/user-attachments/assets/9be01f8f-2c1c-4a1e-bfca-ab53cb8eff3c)
+
+
 
 ---
 
 ## 💡 Notes
 
-* Existing Nether chunks will not retroactively change — **explore new chunks** or reset your Nether to experience the full effect.
+* Existing Nether chunks will not retroactively change, **explore new chunks** or reset your Nether to experience the full effect.
 * Blaze glowstone drops are balanced around the old console mechanics.
