@@ -47,7 +47,7 @@ If you played the old Xbox 360/PS3/Wii U editions, this will feel instantly fami
 
 ## ⚙️ Compatibility
 
-* ✅ Works in **Minecraft 1.21.x**.
+* ✅ Works in **Minecraft 1.21.x**. No backports planned as of now.
 * ❌ Not compatible with mods/datapacks that overhaul Nether biomes or structures.
 * 🔧 Should be safe on servers as long as all players have the mod installed.
 
@@ -64,9 +64,10 @@ If you played the old Xbox 360/PS3/Wii U editions, this will feel instantly fami
 
 ## 📸 Screenshots
 
-![5f9f3ba5566e98d77a2c9c8927d5496aa16412ec](https://github.com/user-attachments/assets/9be01f8f-2c1c-4a1e-bfca-ab53cb8eff3c)
-
-
+<img width="1920" height="1081" alt="2025-09-10_14 25 10" src="https://github.com/user-attachments/assets/67b38da1-bd4f-4990-8c5b-7ca2c262dd18" />
+<img width="1920" height="1081" alt="2025-09-10_14 25 28" src="https://github.com/user-attachments/assets/0cfb724d-5998-4a02-8b1a-b2ec4a977791" />
+<img width="1920" height="1081" alt="2025-09-10_14 25 59" src="https://github.com/user-attachments/assets/66f4e391-8051-4eda-a89e-9a30b39b2a5e" />
+<img width="1920" height="1081" alt="2025-09-10_14 26 42" src="https://github.com/user-attachments/assets/cf738eb7-78fc-40d9-9bf1-9a66f3e24743" />
 
 ---
 
