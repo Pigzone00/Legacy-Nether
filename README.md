@@ -38,7 +38,7 @@ If you played the old Xbox 360/PS3/Wii U editions, this will feel instantly fami
 |Nether Wart generates on Soul Sand|❌|☑️|
 |Blazes drop 0–2 Glowstone Dust|✅|☑️|
 |No modern biomes (Crimson/Warped Forest, Soul Sand Valley, Basalt Deltas)|✅|☑️|
-|Remove Ancient Debris / Netherite|❌|❌|
+|Remove Ancient Debris / Netherite|✅|☑️|
 |Disable newer advancements|✅|☑️|
 |Remove other Nether structures (ruined portals, etc.)|✅|☑️|
 </details>
