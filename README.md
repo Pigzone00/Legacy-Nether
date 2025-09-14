@@ -1,25 +1,24 @@
 <img width="1539" height="365" alt="TN" src="https://github.com/user-attachments/assets/9fbd7894-9ad4-4282-87a2-f5517b6c1559" />
 
+---
 
-**Brings back the classic Nether from the Legacy Console Editions of Minecraft (Xbox 360, PS3, Wii U, etc.) into modern Minecraft!**
+## 📖 Description
+
+Legacy Nether is a mod/datapack that aims to faithfully recreate the **classic Nether from the Legacy Console Editions of Minecraft** (Xbox 360, PS3, Wii U, and others). This project is intended for nostalgic players who want to relive the atmosphere of the pre–1.16 Nether, or for those seeking a simpler, more dangerous, and barren Nether experience that focuses on survival and exploration rather than modern structures and biomes.
+
+This mod removes all of the newer Nether content introduced in Minecraft Java Edition after 1.16, and restores the gameplay loop of the console versions:
+
+* The Nether is composed only of **Nether Wastes**, with no Crimson or Warped Forests, Basalt Deltas, or Soul Sand Valleys.
+* **Bastion Remnants are removed**, along with Piglins, Hoglins, Striders, Zoglins, and other modern mobs.
+* The only mobs you’ll encounter are **Zombified Piglins, Ghasts, Magma Cubes, and Wither Skeletons** (which now spawn everywhere, not just in fortresses).
+* **Blazes drop Glowstone Dust**, recreating the original console farming method.
+* **Nether Wart patches** generate naturally on Soul Sand, just like in older editions.
+* **Ancient Debris and Netherite are absent**, restoring the classic Nether resource balance.
+
 
 ---
 
-## 🕹️ Gameplay Experience
-
-This mod aims to recreate the **feeling of the old Nether from console**:
-
-* Dangerous, empty wastelands.
-* Reliance on Ghasts and Blazes for resources.
-* Wither Skeletons roaming freely.
-* Nether wart spawning on Soul Sand.
-
-If you played the old Xbox 360/PS3/Wii U editions, this will feel instantly familiar.
-
-
----
-
-## ✨ Features
+## ✨ Feature list
 
 ## Key:
 ✅ - Implemented
@@ -45,6 +44,16 @@ If you played the old Xbox 360/PS3/Wii U editions, this will feel instantly fami
 |Remove other Nether structures (ruined portals, etc.)|✅|☑️|
 
 </details>
+
+---
+
+## 🌌 Nostalgia
+
+For the best nostalgic experience, Legacy Nether pairs well with resource packs and mods that restore classic visuals and mechanics, such as:
+
+* [**Golden Days**](https://github.com/PoeticRainbow/golden-days/releases) by *PoeticRainbow* for authentic pre-1.14 textures.
+* [**Nostalgic Tweaks**](https://modrinth.com/mod/nostalgic-tweaks) by *Adrenix* to bring back old fog, lighting, skies, and combat.
+* [**Moderner Beta**](https://modrinth.com/mod/moderner-beta) for recreating Alpha/Beta terrain alongside the console-style Nether.
 
 ---
 
