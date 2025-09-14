@@ -26,6 +26,7 @@ If you played the old Xbox 360/PS3/Wii U editions, this will feel instantly fami
 ☑️ - Planned
 
 ❌ - Not Implemented
+
 <details>
 <summary>Feature List</summary>
   
@@ -41,6 +42,7 @@ If you played the old Xbox 360/PS3/Wii U editions, this will feel instantly fami
 |Remove Ancient Debris / Netherite|✅|☑️|
 |Disable newer advancements|✅|☑️|
 |Remove other Nether structures (ruined portals, etc.)|✅|☑️|
+
 </details>
 
 ---
@@ -64,11 +66,16 @@ If you played the old Xbox 360/PS3/Wii U editions, this will feel instantly fami
 
 ## 📸 Screenshots
 
+<details>
+<summary>Images</summary>
+
 <img width="1920" height="1081" alt="2025-09-10_14 25 10" src="https://github.com/user-attachments/assets/67b38da1-bd4f-4990-8c5b-7ca2c262dd18" />
 <img width="1920" height="1081" alt="2025-09-10_14 25 28" src="https://github.com/user-attachments/assets/0cfb724d-5998-4a02-8b1a-b2ec4a977791" />
 <img width="1920" height="1081" alt="2025-09-10_14 25 59" src="https://github.com/user-attachments/assets/66f4e391-8051-4eda-a89e-9a30b39b2a5e" />
 <img width="1920" height="1081" alt="2025-09-10_14 26 42" src="https://github.com/user-attachments/assets/cf738eb7-78fc-40d9-9bf1-9a66f3e24743" />
 <img width="1920" height="1081" alt="2025-09-10_15 56 58" src="https://github.com/user-attachments/assets/32f3587e-fb37-41a5-8ea0-2ef72bcb0b3a" />
+
+</details>
 
 ---
 
