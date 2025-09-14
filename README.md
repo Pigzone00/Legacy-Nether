@@ -1,4 +1,5 @@
-# 📜 Legacy Nether
+<img width="1539" height="365" alt="TN" src="https://github.com/user-attachments/assets/9fbd7894-9ad4-4282-87a2-f5517b6c1559" />
+
 
 **Brings back the classic Nether from the Legacy Console Editions of Minecraft (Xbox 360, PS3, Wii U, etc.) into modern Minecraft!**
 
