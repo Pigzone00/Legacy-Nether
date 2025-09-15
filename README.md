@@ -12,7 +12,7 @@ This mod removes all of the newer Nether content introduced in Minecraft Java Ed
 * **Bastion Remnants are removed**, along with Piglins, Hoglins, Striders, Zoglins, and other modern mobs.
 * The only mobs you’ll encounter are **Zombified Piglins, Ghasts, Magma Cubes, and Wither Skeletons** (which now spawn everywhere, not just in fortresses).
 * **Blazes drop Glowstone Dust**, recreating the original console farming method.
-* **Nether Wart patches** generate naturally on Soul Sand, just like in older editions.
+* **(Coming Soon) Nether Wart patches** generate naturally on Soul Sand, just like in older editions.
 * **Ancient Debris and Netherite are absent**, restoring the classic Nether resource balance.
 
 
