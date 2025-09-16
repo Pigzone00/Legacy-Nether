@@ -20,6 +20,9 @@ This mod removes all of the newer Nether content introduced in Minecraft Java Ed
 
 ## ✨ Feature list
 
+<details>
+<summary>Feature List</summary>
+
 ## Key:
 ✅ - Implemented
 
@@ -27,9 +30,6 @@ This mod removes all of the newer Nether content introduced in Minecraft Java Ed
 
 ❌ - Not Implemented
 
-<details>
-<summary>Feature List</summary>
-  
 |**Feature**|Implemented|Planned|
 |-|-|-|
 |Nether Wastes only (with soul sand & gravel patches)|✅|☑️|
@@ -100,3 +100,10 @@ For the best nostalgic experience, Legacy Nether pairs well with resource packs 
 
 * 💬 Join the community on [**Discord**](https://discord.com/invite/uhmuVmk2ut)
 * 🛠️ Report issues or contribute on [**GitHub**](https://github.com/Pigzone00/Legacy-Nether)
+
+---
+
+## 🔄 Prefer the Classic Version?
+
+Don’t want any of the new features? Check out the original:
+[**Legacy Nether**](https://modrinth.com/datapack/legacy-nether-modrinth)
