@@ -103,7 +103,7 @@ For the best nostalgic experience, Legacy Nether pairs well with resource packs 
 
 ---
 
-## 🔄 Prefer the Classic Version?
+## 🔄 Want Modern Features Too?
 
-Don’t want any of the new features? Check out the original:
-[**Legacy Nether**](https://modrinth.com/datapack/legacy-nether-modrinth)
+Prefer to keep Netherite, Bastions, and the new biomes? Check out the extended version:
+[**Legacy Nether: Extended**](https://modrinth.com/datapack/legacy-nether-extended)
