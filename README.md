@@ -4,7 +4,7 @@
 
 ## 📖 Description
 
-Legacy Nether is a mod/datapack that aims to faithfully recreate the **classic Nether from the Legacy Console Editions of Minecraft** (Xbox 360, PS3, Wii U, and others). This project is intended for nostalgic players who want to relive the atmosphere of the pre–1.16 Nether, or for those seeking a simpler, more dangerous, and barren Nether experience that focuses on survival and exploration rather than modern structures and biomes.
+**Legacy Nether** is a mod/datapack that aims to faithfully recreate the **classic Nether from the Legacy Console Editions of Minecraft** (Xbox 360, PS3, Wii U, and others). This project is intended for nostalgic players who want to relive the atmosphere of the pre–1.16 Nether, or for those seeking a simpler, more dangerous, and barren Nether experience that focuses on survival and exploration rather than modern structures and biomes.
 
 This mod removes all of the newer Nether content introduced in Minecraft Java Edition after 1.16, and restores the gameplay loop of the console versions:
 
